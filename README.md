@@ -22,11 +22,9 @@
 
 ## 🎚️ Download Custom EQ Presets
 
-Use these presets to enhance your listening experience based on different audio profiles:
+All presets are available in one folder. Use them to enhance your listening experience across different audio profiles:
 
-- 🔊 [Balanced and Smooth](https://sfl.gl/59LHzg)
-- 🔊 [Clear Vocals + Mid Boost](https://sfl.gl/59LHzg)
-- 🔊 [Warm + Bass Boost](https://sfl.gl/59LHzg)
+🔗 [Download EQ Preset Collection](https://sfl.gl/59LHzg)
 
 ---
 
